@@ -1,4 +1,4 @@
-#version 320
+#version 320 es
 
 precision highp float;
 in vec2 v_texcoord;
